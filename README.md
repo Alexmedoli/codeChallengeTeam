@@ -30,5 +30,5 @@ Bem-vindo ao nosso repositório de desafios de código! Este é um espaço onde 
 - Evite adicionar arquivos ou pastas desnecessárias ao repositório.
 - Não modifique desafios em andamento de outros colaboradores sem permissão.
 
-**Divirta-se resolvendo desafios!**
+**Desejo a todos um grande aprendizado e diversão resolvendo os desafios!**
 
