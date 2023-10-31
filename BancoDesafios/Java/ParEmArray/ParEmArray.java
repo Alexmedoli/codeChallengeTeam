@@ -6,7 +6,7 @@ public class ParEmArray {
 
     }
 
-    public void name() {
+    public void func() {
         
     }
     
