@@ -5,5 +5,9 @@ public class ParEmArray {
         //Escreva sua resolução aqui
 
     }
+
+    public void name() {
+        
+    }
     
 }
