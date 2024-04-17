@@ -1,4 +1,4 @@
-package desafioAtual;
+package DesafioAtual;
 import java.util.Scanner;
 
 public class DesafioFizzBuzz {
@@ -15,8 +15,27 @@ public class DesafioFizzBuzz {
         scanner.close();
     }
     public static String jogarFizzBuzz(int numero) {
-        //Escreva sua solução aqui
-        String resultado = new String();
+
+        StringBuilder resultado = new StringBuilder();
+              
+        for (int i = 1; i <= numero; i++){
+            if (i % 15 == 0){
+                resultado.append("Fizzbuzz");
+            }
+            else if (i % 5 == 0){
+                resultado.append("Buzz");
+            }
+            else if (i % 3 == 0){
+                resultado.append("Fizz");
+            }
+            else {
+                resultado.append(i);
+            }
+
+        resultado.append("\n");
+
+        }
+
         return resultado.toString();
     }
 
